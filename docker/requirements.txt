@@ -1,0 +1,5 @@
+opencv-python
+lxml
+matplotlib
+easydict
+pillow
